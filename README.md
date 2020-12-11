@@ -5,5 +5,6 @@ Mod for Diablo II: Lord of Destruction
 Diablo II: Lord of Destruction v1.14d
 
 ### Installation guide
-1. Copy contents of **Mod** folder into your Diablo II folder.
-2. Add **-direct -txt** to your Diablo II shortcut.
+1. [Download latest releaste](https://github.com/Drelekin/kurat/releases/)
+2. Copy contents of **Mod** folder into your Diablo II folder.
+3. Add **-direct -txt** to your Diablo II shortcut.
